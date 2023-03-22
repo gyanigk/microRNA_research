@@ -4,5 +4,13 @@
 - Custom dataset to be used
 - Using the zhengxueming/dnnPreMiR repo mentioned in the paper as codebase
   
-  
-##
+
+##Setting Up Environment
+- Dependencies :
+  - Python 3
+  - Tensorflow > 0.12
+  - Numpy
+  - RNAfold (/bin/RNAfold)
+
+- Use VSCode or IntelliJ Pycharm
+
